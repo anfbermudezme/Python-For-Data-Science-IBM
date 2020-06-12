@@ -37,3 +37,5 @@ For the scientific articles, notes and other tools that I need for my career as 
 
 
 ![](https://raw.githubusercontent.com/anfbermudezme/Blog/master/imagenes/Luna.png)
+
+![](https://raw.githubusercontent.com/anfbermudezme/Python-For-Data-Science-IBM/master/Images/CertificateEDXPy.PNG)
