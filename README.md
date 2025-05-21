@@ -32,7 +32,7 @@ For the scientific articles, notes and other tools that I need for my career as 
 
 # My Social Networks 
 
-- Twitter: https://twitter.com/ifelipe317
+- Twitter: https://twitter.com/felipe627_
 - Linkedin: https://www.linkedin.com/in/af-bermudez/
 
 
